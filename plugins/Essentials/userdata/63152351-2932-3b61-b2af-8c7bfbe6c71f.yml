@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 106.211.93.109
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1705242091461
+  login: 1705242017468
+money: '0'
+last-account-name: INDxRapid
+logoutlocation:
+  world: 3a21ee12-2bf2-43b4-b4fa-f9424b0de21d
+  world-name: world
+  x: -1.3607377573880874
+  y: 100.0
+  z: -5.303378704694557
+  yaw: -144.23309326171875
+  pitch: 8.513602256774902
+lastlocation:
+  world: 3a21ee12-2bf2-43b4-b4fa-f9424b0de21d
+  world-name: world
+  x: 1.5037970808036258
+  y: 99.0
+  z: -14.536050509584085
+  yaw: 1.3324527740478516
+  pitch: -2.4051527976989746

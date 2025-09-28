@@ -1,0 +1,4 @@
+command /discord:
+	aliases: disc
+	trigger:
+		message "&eLink to our discord is:&r <link>:&d&mhttps://discord.skyzen.live"

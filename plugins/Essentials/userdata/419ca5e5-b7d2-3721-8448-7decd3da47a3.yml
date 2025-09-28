@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 203.76.220.242
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1707453389769
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1707990525188
+  login: 1707989502550
+  kits:
+    bw: 1707471472155
+money: '0'
+last-account-name: GamingBdMf
+logoutlocation:
+  world: 51c1d8b5-9bed-4cfc-8e6f-7743af604ba7
+  world-name: Duels
+  x: 28.25642655126526
+  y: -1648.9767365492887
+  z: 2516.3680248289347
+  yaw: -151.39895629882812
+  pitch: 87.6753921508789
+lastlocation:
+  world: 51c1d8b5-9bed-4cfc-8e6f-7743af604ba7
+  world-name: Duels
+  x: -44.517534406172345
+  y: 260.26802464039395
+  z: 2386.7223387392664
+  yaw: -37.656036376953125
+  pitch: 22.72937774658203

@@ -1,2 +1,0 @@
-# DuelsCentral
-DuelsCentral

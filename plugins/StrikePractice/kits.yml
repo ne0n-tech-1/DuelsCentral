@@ -1,0 +1,3021 @@
+kits:
+- ==: BattleKit
+  no-hunger: true
+  types: ANY, QUEUE
+  pearl-cooldown: 1
+  best-of: 1
+  no-bestof-rollback: false
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: END_CRYSTAL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Crystalelo"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+  elo: true
+  no-damage: false
+  inventory:
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  merged-editable-kit: crystal
+  no-death-countdown: false
+  chestplate: null
+  build: true
+  helmet: null
+  name: crystalelo
+  boots: null
+  boxing: false
+  block-disappear: 0
+  leggings: null
+- ==: BattleKit
+  no-hunger: true
+  types: ANY, QUEUE
+  pearl-cooldown: 0
+  best-of: 1
+  no-bestof-rollback: false
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Nethpotelo"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+      potion-type: minecraft:strong_healing
+  elo: true
+  no-damage: false
+  inventory:
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  merged-editable-kit: nethpot
+  no-death-countdown: false
+  chestplate: null
+  helmet: null
+  name: nethpotelo
+  boots: null
+  boxing: false
+  block-disappear: 0
+  leggings: null
+- ==: BattleKit
+  types: ANY, QUEUE
+  pearl-cooldown: 0
+  best-of: 1
+  no-bestof-rollback: false
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Tankelo"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+  elo: true
+  no-damage: false
+  inventory:
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  merged-editable-kit: tank
+  no-death-countdown: false
+  chestplate: null
+  build: true
+  helmet: null
+  name: tankelo
+  boots: null
+  boxing: false
+  block-disappear: 0
+  leggings: null
+- ==: BattleKit
+  no-hunger: true
+  types: ANY, QUEUE
+  pearl-cooldown: 0
+  best-of: 1
+  no-bestof-rollback: false
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: ELYTRA
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Elytrafightelo"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+  elo: true
+  no-damage: false
+  inventory:
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  merged-editable-kit: elytrafight
+  no-death-countdown: false
+  chestplate: null
+  build: true
+  helmet: null
+  name: elytrafightelo
+  boots: null
+  boxing: false
+  block-disappear: 0
+  leggings: null
+- ==: BattleKit
+  types: ANY
+  pearl-cooldown: 0
+  best-of: 1
+  no-bestof-rollback: false
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"Axepvp"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+  no-damage: false
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DAMAGE_ALL: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: CROSSBOW
+    meta:
+      ==: ItemMeta
+      meta-type: CROSSBOW
+      charged: true
+      charged-projectiles:
+      - ==: org.bukkit.inventory.ItemStack
+        v: 3578
+        type: TIPPED_ARROW
+        amount: 10
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:harming
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TIPPED_ARROW
+    amount: 10
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:harming
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_BOOTS
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_LEGGINGS
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_CHESTPLATE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_HELMET
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SHIELD
+  no-death-countdown: false
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_CHESTPLATE
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_HELMET
+  name: axepvp
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_BOOTS
+  boxing: false
+  block-disappear: 0
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_LEGGINGS
+- ==: BattleKit
+  no-hunger: true
+  types: ANY, QUEUE
+  pearl-cooldown: 0
+  editable: true
+  best-of: 1
+  no-bestof-rollback: false
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Boxing"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+  no-damage: false
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_SWORD
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_HELMET
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_BOOTS
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_LEGGINGS
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_CHESTPLATE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_HELMET
+  - null
+  no-death-countdown: false
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_CHESTPLATE
+  build: true
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_HELMET
+  name: boxing
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_BOOTS
+  boxing: false
+  block-disappear: 0
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_LEGGINGS
+- ==: BattleKit
+  types: DUEL, ANY, QUEUE
+  pearl-cooldown: 0
+  editable: true
+  best-of: 1
+  no-bestof-rollback: false
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: LAVA_BUCKET
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"BuildUHC"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+  no-damage: false
+  inventory:
+  - &id001
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DAMAGE_ALL: 3
+  - &id002
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: FISHING_ROD
+  - &id003
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: BOW
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        ARROW_DAMAGE: 2
+  - &id004
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: LAVA_BUCKET
+  - &id005
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: WATER_BUCKET
+  - &id006
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: OAK_PLANKS
+    amount: 64
+  - &id007
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: GOLDEN_APPLE
+    amount: 3
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Golden
+        Head"}],"text":""}'
+  - &id008
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: GOLDEN_APPLE
+    amount: 6
+  - &id009
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: ARROW
+    amount: 32
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - &id010
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: LAVA_BUCKET
+  - &id011
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: WATER_BUCKET
+  - &id012
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: COBBLESTONE
+    amount: 64
+  - &id013
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_AXE
+  - &id014
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_PICKAXE
+  - null
+  no-death-countdown: false
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 2
+  build: true
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 2
+  name: builduhc
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 2
+  boxing: false
+  block-disappear: 0
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 2
+- ==: BattleKit
+  types: DUEL, ANY, QUEUE
+  pearl-cooldown: 0
+  best-of: 1
+  no-bestof-rollback: false
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: LAVA_BUCKET
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"Builduhc"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+  elo: true
+  no-damage: false
+  inventory:
+  - *id001
+  - *id002
+  - *id003
+  - *id004
+  - *id005
+  - *id006
+  - *id007
+  - *id008
+  - *id009
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - *id010
+  - *id011
+  - *id012
+  - *id013
+  - *id014
+  - null
+  merged-editable-kit: builduhc
+  no-death-countdown: false
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 2
+  build: true
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 2
+  name: builduhcelo
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 2
+  boxing: false
+  block-disappear: 0
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 2
+- ==: BattleKit
+  no-hunger: true
+  types: ANY, QUEUE
+  pearl-cooldown: 0
+  editable: true
+  best-of: 1
+  no-bestof-rollback: false
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TNT_MINECART
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Cart"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+  no-damage: false
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        MENDING: 1
+        DAMAGE_ALL: 5
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 5
+        MENDING: 1
+        DAMAGE_ALL: 5
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TNT_MINECART
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: RAIL
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: GOLDEN_APPLE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: OAK_PLANKS
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: WATER_BUCKET
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: COBWEB
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TNT_MINECART
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TNT_MINECART
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TNT_MINECART
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TNT_MINECART
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TNT_MINECART
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TNT_MINECART
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: OAK_PLANKS
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: WATER_BUCKET
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: EXPERIENCE_BOTTLE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TNT_MINECART
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TNT_MINECART
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TNT_MINECART
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TNT_MINECART
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TNT_MINECART
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TNT_MINECART
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: OAK_PLANKS
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: WATER_BUCKET
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: EXPERIENCE_BOTTLE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TNT_MINECART
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TNT_MINECART
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TNT_MINECART
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TNT_MINECART
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TNT_MINECART
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: ARROW
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: OAK_PLANKS
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: WATER_BUCKET
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: COBWEB
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: BOW
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        ARROW_FIRE: 1
+        ARROW_DAMAGE: 3
+        DURABILITY: 3
+  no-death-countdown: false
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  build: true
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  name: cart
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  boxing: false
+  block-disappear: 0
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+- ==: BattleKit
+  no-hunger: true
+  types: ANY, QUEUE
+  pearl-cooldown: 0
+  editable: true
+  best-of: 1
+  no-bestof-rollback: false
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: END_CRYSTAL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Crystal"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+  no-damage: false
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        KNOCKBACK: 1
+        LOOT_BONUS_MOBS: 3
+        MENDING: 1
+        DAMAGE_ALL: 5
+        SWEEPING_EDGE: 3
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: OBSIDIAN
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: END_CRYSTAL
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: ENDER_PEARL
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: GOLDEN_APPLE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 5
+        MENDING: 1
+        SILK_TOUCH: 1
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: GLOWSTONE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: RESPAWN_ANCHOR
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: ENDER_PEARL
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: EXPERIENCE_BOTTLE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SHIELD
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      enchants:
+        MENDING: 1
+        DURABILITY: 3
+      blockMaterial: SHIELD
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: ENDER_PEARL
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: EXPERIENCE_BOTTLE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: ENDER_PEARL
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: OBSIDIAN
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: END_CRYSTAL
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        DEPTH_STRIDER: 3
+        PROTECTION_FALL: 4
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_EXPLOSIONS: 4
+        MENDING: 1
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        WATER_WORKER: 1
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        OXYGEN: 3
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TOTEM_OF_UNDYING
+  no-death-countdown: false
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  build: true
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        WATER_WORKER: 1
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        OXYGEN: 3
+        DURABILITY: 3
+  name: crystal
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        DEPTH_STRIDER: 3
+        PROTECTION_FALL: 4
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  boxing: false
+  block-disappear: 0
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_EXPLOSIONS: 4
+        MENDING: 1
+        DURABILITY: 3
+- ==: BattleKit
+  no-hunger: true
+  types: ANY, QUEUE
+  pearl-cooldown: 0
+  editable: true
+  best-of: 1
+  no-bestof-rollback: false
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: ELYTRA
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Elytrafight"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+  no-damage: false
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DAMAGE_ALL: 5
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: BOW
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        ARROW_DAMAGE: 5
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: GOLDEN_APPLE
+    amount: 12
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: ARROW
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: FIREWORK_ROCKET
+    amount: 64
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: ELYTRA
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: FIREWORK_ROCKET
+    amount: 64
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: FIREWORK_ROCKET
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: FIREWORK_ROCKET
+    amount: 64
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: LEATHER_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: COLORABLE_ARMOR
+      enchants:
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: LEATHER_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: COLORABLE_ARMOR
+      enchants:
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: ELYTRA
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: LEATHER_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: COLORABLE_ARMOR
+      enchants:
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: FIREWORK_ROCKET
+    amount: 64
+  no-death-countdown: false
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: ELYTRA
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DURABILITY: 3
+  build: true
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: LEATHER_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: COLORABLE_ARMOR
+      enchants:
+        DURABILITY: 3
+  name: elytrafight
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: LEATHER_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: COLORABLE_ARMOR
+      enchants:
+        DURABILITY: 3
+  boxing: false
+  block-disappear: 0
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: LEATHER_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: COLORABLE_ARMOR
+      enchants:
+        DURABILITY: 3
+- ==: BattleKit
+  no-hunger: true
+  types: ANY, QUEUE
+  pearl-cooldown: 0
+  editable: true
+  best-of: 1
+  no-bestof-rollback: false
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Nethpot"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+      potion-type: minecraft:strong_healing
+  no-damage: false
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        MENDING: 1
+        DAMAGE_ALL: 4
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_healing
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_healing
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_healing
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_healing
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_healing
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_strength
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_swiftness
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: EXPERIENCE_BOTTLE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_swiftness
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_healing
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_healing
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_healing
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_healing
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_strength
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_strength
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_swiftness
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: EXPERIENCE_BOTTLE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_swiftness
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_healing
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_healing
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_healing
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_healing
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_swiftness
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_strength
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_swiftness
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_healing
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_healing
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_healing
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_healing
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_healing
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_strength
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_swiftness
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: GOLDEN_APPLE
+    amount: 64
+  no-death-countdown: false
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  build: true
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  name: nethpot
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  boxing: false
+  block-disappear: 0
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+- ==: BattleKit
+  no-hunger: true
+  types: ANY, QUEUE
+  pearl-cooldown: 0
+  editable: true
+  best-of: 1
+  no-bestof-rollback: false
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: COBWEB
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Smpkit"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+  no-damage: false
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DAMAGE_ALL: 4
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DAMAGE_UNDEAD: 4
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: GOLDEN_APPLE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: COBWEB
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: ENDER_PEARL
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_strength
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_strength
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_swiftness
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_fire_resistance
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_strength
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: ENDER_PEARL
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_strength
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_swiftness
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_swiftness
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_swiftness
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_swiftness
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_swiftness
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_fire_resistance
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_strength
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: ENDER_PEARL
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_strength
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_strength
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_swiftness
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_swiftness
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_swiftness
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_swiftness
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_fire_resistance
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_strength
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: ENDER_PEARL
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_strength
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_strength
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_strength
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_strength
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_strength
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_swiftness
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:long_fire_resistance
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SHIELD
+    meta:
+      ==: ItemMeta
+      meta-type: TILE_ENTITY
+      enchants:
+        DURABILITY: 3
+      blockMaterial: SHIELD
+  no-death-countdown: false
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  build: true
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  name: smpkit
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  boxing: false
+  block-disappear: 0
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHERITE_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+- ==: BattleKit
+  no-hunger: true
+  types: ANY, QUEUE
+  pearl-cooldown: 0
+  editable: true
+  best-of: 1
+  no-bestof-rollback: false
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Tank"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+  no-damage: false
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_SWORD
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: WOODEN_SWORD
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_BOOTS
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_LEGGINGS
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_CHESTPLATE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_HELMET
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: WOODEN_SWORD
+  no-death-countdown: false
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_CHESTPLATE
+  build: true
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_HELMET
+  name: tank
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_BOOTS
+  boxing: false
+  block-disappear: 0
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_LEGGINGS
+- ==: BattleKit
+  no-hunger: true
+  types: ANY, QUEUE
+  pearl-cooldown: 0
+  editable: true
+  best-of: 1
+  no-bestof-rollback: false
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: WOODEN_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Woodpvp"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+  no-damage: false
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: STONE_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Unbreakable: true
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: FISHING_ROD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Unbreakable: true
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: BOW
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Unbreakable: true
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: FLINT_AND_STEEL
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      Damage: 64
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: ARROW
+    amount: 5
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  no-death-countdown: false
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: IRON_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      Unbreakable: true
+  build: true
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: IRON_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      Unbreakable: true
+  name: woodpvp
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: IRON_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      Unbreakable: true
+  boxing: false
+  block-disappear: 0
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: IRON_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      Unbreakable: true
+- ==: BattleKit
+  no-hunger: true
+  types: ANY, QUEUE
+  pearl-cooldown: 0
+  editable: true
+  best-of: 1
+  no-bestof-rollback: false
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: LADDER
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Parkour"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+  no-damage: false
+  inventory:
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  no-death-countdown: false
+  chestplate: null
+  helmet: null
+  name: parkour
+  boots: null
+  boxing: false
+  block-disappear: 0
+  parkour: true
+  leggings: null
+- ==: BattleKit
+  no-hunger: true
+  types: ANY, QUEUE
+  pearl-cooldown: 0
+  editable: true
+  best-of: 1
+  no-bestof-rollback: false
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Manhunt"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+      potion-type: minecraft:strong_swiftness
+  no-damage: false
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_SWORD
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: ENDER_PEARL
+    amount: 4
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_AXE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: COOKED_BEEF
+    amount: 14
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: WATER_BUCKET
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: BOW
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_PICKAXE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: COBWEB
+    amount: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: LAVA_BUCKET
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: ARROW
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DEEPSLATE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: OAK_PLANKS
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: FLINT_AND_STEEL
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: IRON_SHOVEL
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: IRON_INGOT
+    amount: 4
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: GOLD_INGOT
+    amount: 4
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: RAIL
+    amount: 8
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TNT_MINECART
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SLIME_BLOCK
+    amount: 4
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: OBSERVER
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: FISHING_ROD
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TNT
+    amount: 6
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: CRAFTING_TABLE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: OBSIDIAN
+    amount: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: GOLDEN_CARROT
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: APPLE
+    amount: 4
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TNT_MINECART
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: CROSSBOW
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: REDSTONE_BLOCK
+    amount: 6
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DEAD_BUSH
+    amount: 4
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: STICKY_PISTON
+    amount: 4
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: PISTON
+    amount: 4
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPONGE
+    amount: 2
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DEEPSLATE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: GOLDEN_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        KNOCKBACK: 1
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: HAY_BLOCK
+    amount: 4
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_BOOTS
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: IRON_LEGGINGS
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_CHESTPLATE
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_HELMET
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SHIELD
+  no-death-countdown: false
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_CHESTPLATE
+  build: true
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_HELMET
+  name: manhunt
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_BOOTS
+  boxing: false
+  block-disappear: 0
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: IRON_LEGGINGS
+- ==: BattleKit
+  no-hunger: true
+  types: ANY, QUEUE
+  pearl-cooldown: 0
+  editable: true
+  best-of: 1
+  no-bestof-rollback: false
+  icon:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: FERMENTED_SPIDER_EYE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Lifesteal"}],"text":""}'
+      ItemFlags:
+      - HIDE_ENCHANTS
+      - HIDE_ATTRIBUTES
+      - HIDE_UNBREAKABLE
+      - HIDE_DESTROYS
+      - HIDE_PLACED_ON
+      - HIDE_POTION_EFFECTS
+      - HIDE_DYE
+      - HIDE_ARMOR_TRIM
+  no-damage: false
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        FIRE_ASPECT: 2
+        LOOT_BONUS_MOBS: 3
+        MENDING: 1
+        DAMAGE_ALL: 4
+        SWEEPING_EDGE: 3
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: ENDER_PEARL
+    amount: 8
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_AXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 4
+        MENDING: 1
+        DAMAGE_ALL: 5
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: COBWEB
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: WATER_BUCKET
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: GOLDEN_APPLE
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:fire_resistance
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: COBBLESTONE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: GOLDEN_CARROT
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: COBBLESTONE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: COBBLESTONE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: COBBLESTONE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TNT_MINECART
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TNT_MINECART
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: WATER_BUCKET
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_poison
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:strong_poison
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: RAIL
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: COBBLESTONE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: COBBLESTONE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: COBBLESTONE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TNT_MINECART
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TNT_MINECART
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: WATER_BUCKET
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:fire_resistance
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: BOW
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        ARROW_FIRE: 1
+        MENDING: 1
+        ARROW_DAMAGE: 5
+        ARROW_KNOCKBACK: 2
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPONGE
+    amount: 8
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: EXPERIENCE_BOTTLE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: EXPERIENCE_BOTTLE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SHIELD
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TNT_MINECART
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: TIPPED_ARROW
+    amount: 16
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:harming
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: ARROW
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SPLASH_POTION
+    meta:
+      ==: ItemMeta
+      meta-type: POTION
+      potion-type: minecraft:fire_resistance
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 4
+        LOOT_BONUS_BLOCKS: 3
+        MENDING: 1
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: OAK_PLANKS
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_EXPLOSIONS: 4
+        MENDING: 1
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: SHIELD
+  no-death-countdown: false
+  chestplate:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  build: true
+  helmet:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  name: lifesteal
+  boots:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        MENDING: 1
+        PROTECTION_ENVIRONMENTAL: 4
+        DURABILITY: 3
+  boxing: false
+  block-disappear: 0
+  leggings:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_EXPLOSIONS: 4
+        MENDING: 1
+        DURABILITY: 3
+
+
+# 66229Y66HYHETM7RIZJ

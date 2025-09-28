@@ -1,0 +1,80 @@
+options:
+#Teleport players to spawn whenever they join
+	TPJoin: false
+#Announce the new players when they join for the first time
+	FirstJoin: true
+#Hide join Messages
+	JoinMessage: true
+#Hide quit Messages
+	QuitMessage: true
+
+command /setspawn:
+	aliases: spawnset, sethub, hubset, setlobby, lobbyset
+	permission: spawn.setspawn
+	permission message: &cSorry, but you don't have permission to execute this command!
+	description: Set spawn at your location.
+	trigger:
+		message "&6You have &cset spawn&6 at your location!"
+		set {spawn} to location of player
+
+command /spawn [<player>]:
+	aliases: hub, lobby
+	permission: spawn.spawn
+	permission message: &cSorry, but you don't have permission to execute this command!
+	description: Teleport you to spawn.
+	trigger:
+		if {spawn} isn't set:
+			message "&4Error:&c spawn is not set!"
+			stop
+		else:
+			argument 1 is not set:
+				teleport player to {spawn}
+				message "&6Teleporting..."
+			else:
+				if sender has permission "spawn.spawn.others":
+					if argument is online:
+						teleport argument to {spawn}
+					if sender is a player:
+						message "&6You have been teleported to spawn by &c%player%&6." to argument 1
+					if sender is not a player:
+						message "&6You have been teleported to spawn by &cConsole&6." to argument 1
+						teleport player to {spawn}
+				else:
+					message "&cSorry, but you don't have permission to execute this command!"
+
+command /delspawn:
+	permission: spawn.spawn.delete
+	permission message: &cSorry, but you don't have permission to execute this command!
+	description: Unset spawn location.
+	trigger:
+		delete {spawn}
+		message "&6You have successfully unset &cspawn6!"
+
+
+on first join:
+	teleport player to {spawn}
+	if {@FirstJoin} is true:
+		broadcast "&dPlease welcome player &9%player's display name% &dhe/she have joined the server for the first time."
+	else:
+		stop
+
+on join:
+	if {@JoinMessage} is true:
+		set join message to ""
+		stop
+	else:
+		stop
+	if {spawn} is set:
+		if {@TPJoin} is true:
+			teleport player to {spawn}
+		else:
+			stop
+	else:
+		stop
+
+on quit:
+	if {@QuitMessage} is true:
+		set leave message to ""
+		stop
+	else:
+		stop

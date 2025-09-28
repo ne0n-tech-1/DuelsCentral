@@ -1,0 +1,18 @@
+location: spawn:0.517:7.000:-4.454
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '&b&lPvP Duels &8| &f&lWelcome'
+    height: 0.8
+  - content: '&fBegin your journey playing on our Duels Server'
+    height: 0.3
+  - content: '&fdon''t forget to join our discord server.'
+    height: 0.3
+  - content: '&b&n/discord'
+    height: 0.3
+  actions: {}

@@ -1,0 +1,28 @@
+language-items:
+- ==: LanguageItem
+  item: null
+  language: français
+  slot: 11
+- ==: LanguageItem
+  item: null
+  language: nederlands
+  slot: 13
+- ==: LanguageItem
+  item: null
+  language: suomi
+  slot: 15
+- ==: LanguageItem
+  item: null
+  language: italiano
+  slot: 12
+- ==: LanguageItem
+  item: null
+  language: spanish
+  slot: 10
+- ==: LanguageItem
+  item: null
+  language: English
+  slot: 9
+
+
+# 66229Y66HYHETM7RIZJ

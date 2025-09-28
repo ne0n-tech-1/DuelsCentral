@@ -1,0 +1,41 @@
+location: spawn:-12.477:9.000:0.416
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '#ICON: LIGHT_BLUE_DYE'
+    height: 0.6
+  - content: '&b&l&lᴛᴏᴘ ᴋɪʟʟꜱ'
+    height: 0.3
+  - content: '&r'
+    height: 0.3
+  - content: '&b#1 &7| &f%ajlb_lb_statistic_player_kills_1_alltime_name%: &b&l%ajlb_lb_statistic_player_kills_1_alltime_value%'
+    height: 0.3
+  - content: '&b#2 &7| &f%ajlb_lb_statistic_player_kills_2_alltime_name%: &b&l%ajlb_lb_statistic_player_kills_2_alltime_value%'
+    height: 0.3
+  - content: '&b#3 &7| &f%ajlb_lb_statistic_player_kills_3_alltime_name%: &b&l%ajlb_lb_statistic_player_kills_3_alltime_value%'
+    height: 0.3
+  - content: '&b#4 &7| &f%ajlb_lb_statistic_player_kills_4_alltime_name%: &b&l%ajlb_lb_statistic_player_kills_4_alltime_value%'
+    height: 0.3
+  - content: '&b#5 &7| &f%ajlb_lb_statistic_player_kills_5_alltime_name%: &b&l%ajlb_lb_statistic_player_kills_5_alltime_value%'
+    height: 0.3
+  - content: '&b#6 &7| &f%ajlb_lb_statistic_player_kills_6_alltime_name%: &b&l%ajlb_lb_statistic_player_kills_6_alltime_value%'
+    height: 0.3
+  - content: '&b#7 &7| &f%ajlb_lb_statistic_player_kills_7_alltime_name%: &b&l%ajlb_lb_statistic_player_kills_7_alltime_value%'
+    height: 0.3
+  - content: '&b#8 &7| &f%ajlb_lb_statistic_player_kills_8_alltime_name%: &b&l%ajlb_lb_statistic_player_kills_8_alltime_value%'
+    height: 0.3
+  - content: '&b#9 &7| &f%ajlb_lb_statistic_player_kills_9_alltime_name%: &b&l%ajlb_lb_statistic_player_kills_9_alltime_value%'
+    height: 0.3
+  - content: '&b#10 &7| &f%ajlb_lb_statistic_player_kills_10_alltime_name%: &b&l%ajlb_lb_statistic_player_kills_10_alltime_value%'
+    height: 0.3
+  - content: ''
+    height: 0.3
+  - content: '&b#%ajlb_position_statistic_player_kills_alltime% &7| &f%player_name%:
+      &b&l%ajlb_value_statistic_player_kills_alltime%'
+    height: 0.3
+  actions: {}

@@ -1,0 +1,143 @@
+# ░██████╗░██╗░░░░░░█████╗░░█████╗░░██████╗██╗░░██╗██╗░██████╗███████╗██████╗░██╗░░░██╗██╗░█████╗░███████╗░██████╗
+# ██╔════╝░██║░░░░░██╔══██╗██╔══██╗██╔════╝██║░██╔╝██║██╔════╝██╔════╝██╔══██╗██║░░░██║██║██╔══██╗██╔════╝██╔════╝
+# ██║░░██╗░██║░░░░░██║░░██║██║░░██║╚█████╗░█████═╝░██║╚█████╗░█████╗░░██████╔╝╚██╗░██╔╝██║██║░░╚═╝█████╗░░╚█████╗░
+# ██║░░╚██╗██║░░░░░██║░░██║██║░░██║░╚═══██╗██╔═██╗░██║░╚═══██╗██╔══╝░░██╔══██╗░╚████╔╝░██║██║░░██╗██╔══╝░░░╚═══██╗
+# ╚██████╔╝███████╗╚█████╔╝╚█████╔╝██████╔╝██║░╚██╗██║██████╔╝███████╗██║░░██║░░╚██╔╝░░██║╚█████╔╝███████╗██████╔╝
+# ░╚═════╝░╚══════╝░╚════╝░░╚════╝░╚═════╝░╚═╝░░╚═╝╚═╝╚═════╝░╚══════╝╚═╝░░╚═╝░░░╚═╝░░░╚═╝░╚════╝░╚══════╝╚═════╝░
+# ██████╗░███████╗░█████╗░████████╗██╗░░██╗  ███╗░░░███╗███████╗░██████╗░██████╗░█████╗░░██████╗░███████╗░██████╗
+# ██╔══██╗██╔════╝██╔══██╗╚══██╔══╝██║░░██║  ████╗░████║██╔════╝██╔════╝██╔════╝██╔══██╗██╔════╝░██╔════╝██╔════╝
+# ██║░░██║█████╗░░███████║░░░██║░░░███████║  ██╔████╔██║█████╗░░╚█████╗░╚█████╗░███████║██║░░██╗░█████╗░░╚█████╗░
+# ██║░░██║██╔══╝░░██╔══██║░░░██║░░░██╔══██║  ██║╚██╔╝██║██╔══╝░░░╚═══██╗░╚═══██╗██╔══██║██║░░╚██╗██╔══╝░░░╚═══██╗
+# ██████╔╝███████╗██║░░██║░░░██║░░░██║░░██║  ██║░╚═╝░██║███████╗██████╔╝██████╔╝██║░░██║╚██████╔╝███████╗██████╔╝
+# ╚═════╝░╚══════╝╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝  ╚═╝░░░░░╚═╝╚══════╝╚═════╝░╚═════╝░╚═╝░░╚═╝░╚═════╝░╚══════╝╚═════╝░
+
+# Created by: Jelloski & Gloozzy
+# Version: 1.2
+
+options:
+
+# Change this to the prefix you want before the text.
+	prefix: &c&l(!)
+
+on load:
+	clear {data::deathmessages::*}
+
+#---------------------------------#
+#           Directions            #
+# If you're wanting to edit these #
+#     <victim> = Victim Name      #
+#   <attacker> = Attacker Name    #
+#       Copy & Paste to add       #
+#---------------------------------#
+
+# Player Death Messages
+	add "{@prefix} &c<attacker> &7killed &c<victim>&7." to {data::deathmessages::player::*}
+	add "{@prefix} &c<victim> &7was slain by &c<attacker>&7." to {data::deathmessages::player::*}
+	add "{@prefix} &c<victim> &7was killed by &c<attacker>&7." to {data::deathmessages::player::*}
+# Drowning Death Messages
+	add "{@prefix} &c<victim> &7was killed by drowning." to {data::deathmessages::drowning::*}
+	add "{@prefix} &c<victim> &7couldn't breathe under water." to {data::deathmessages::drowning::*}
+	add "{@prefix} &c<victim> &7thought they were a fish." to {data::deathmessages::drowning::*}
+	add "{@prefix} &c<victim> &7drowned." to {data::deathmessages::drowning::*}
+# Starvation Death Messages
+	add "{@prefix} &c<victim> &7was killed by starvation." to {data::deathmessages::starvation::*}
+	add "{@prefix} &c<victim> &7ran out of food." to {data::deathmessages::starvation::*}
+	add "{@prefix} &c<victim> &7suffered an empty stomach." to {data::deathmessages::starvation::*}
+	add "{@prefix} &c<victim> &7starved to death." to {data::deathmessages::starvation::*}
+# Fall Damage Death Messages
+	add "{@prefix} &c<victim> &7was killed by fall damage." to {data::deathmessages::fall::*}
+	add "{@prefix} &c<victim> &7fell from a high place." to {data::deathmessages::fall::*}
+	add "{@prefix} &c<victim> &7thought they could fly." to {data::deathmessages::fall::*}
+	add "{@prefix} &c<victim> &7fell." to {data::deathmessages::fall::*}
+# Lava Death Messages
+	add "{@prefix} &c<victim> &7was killed by lava." to {data::deathmessages::lava::*}
+	add "{@prefix} &c<victim> &7tried to swim in the deep fryer." to {data::deathmessages::lava::*}
+	add "{@prefix} &c<victim> &7tried to swim in lava." to {data::deathmessages::lava::*}
+	add "{@prefix} &c<victim> &7was incinerated." to {data::deathmessages::lava::*}
+# Burning Death Messages
+	add "{@prefix} &c<victim> &7was killed by fire." to {data::deathmessages::burning::*}
+	add "{@prefix} &c<victim> &7was turned into ash." to {data::deathmessages::burning::*}
+	add "{@prefix} &c<victim> &7forgot their sunscreen." to {data::deathmessages::burning::*}
+	add "{@prefix} &c<victim> &7burned to a crisp." to {data::deathmessages::burning::*}
+	add "{@prefix} &c<victim> &7burned." to {data::deathmessages::burning::*}
+# Explosion Death Messages (Mainly TNT)
+	add "{@prefix} &c<victim> &7was killed by an explosion." to {data::deathmessages::explosion::*}
+	add "{@prefix} &c<victim> &7was blown to pieces." to {data::deathmessages::explosion::*}
+	add "{@prefix} &c<victim> &7was reduced to ashes." to {data::deathmessages::explosion::*}
+	add "{@prefix} &c<victim> &7was blown to smithereens." to {data::deathmessages::explosion::*}
+	add "{@prefix} &c<victim> &7exploded." to {data::deathmessages::explosion::*}
+# Suffocation Death Messages
+	add "{@prefix} &c<victim> &7was killed by suffocation." to {data::deathmessages::suffocation::*}
+	add "{@prefix} &c<victim> &7inhaled suspicious substances." to {data::deathmessages::suffocation::*}
+	add "{@prefix} &c<victim> &7suffocated to death." to {data::deathmessages::suffocation::*}
+# Poison Death Messages
+	add "{@prefix} &c<victim> &7was killed by poison." to {data::deathmessages::poison::*}
+	add "{@prefix} &c<victim> &7couldn't find the antidote." to {data::deathmessages::poison::*}
+	add "{@prefix} &c<victim> &7took the wrong substance." to {data::deathmessages::poison::*}
+	add "{@prefix} &c<victim> &7was poisoned." to {data::deathmessages::poison::*}
+# Withering Death Messages
+	add "{@prefix} &c<victim> &7withered away." to {data::deathmessages::wither::*}
+	add "{@prefix} &c<victim> &7faded away." to {data::deathmessages::wither::*}
+	add "{@prefix} &c<victim> &7rotted away." to {data::deathmessages::wither::*}
+	add "{@prefix} &c<victim> &7decayed." to {data::deathmessages::wither::*}
+# Void Death Messages
+	add "{@prefix} &c<victim> &7was crushed by the void" to {data::deathmessages::void::*}
+	add "{@prefix} &c<victim> &7sliped into the void" to {data::deathmessages::void::*}
+	add "{@prefix} &c<victim> &7fell out of the world" to {data::deathmessages::void::*}
+# Other Death Messages
+	add "{@prefix} &c<victim> &7was killed." to {data::deathmessages::other::*}
+	add "{@prefix} &c<victim> &7died." to {data::deathmessages::other::*}
+
+# Do not edit below unless you know what you're doing.
+
+on death of player:
+	if attacker is a player or mob: # Death by Player or Mob
+		set {_msg} to a random element out of {data::deathmessages::player::*}
+		replace all "<victim>" with "%victim%" in {_msg}
+		replace all "<attacker>" with "%attacker%" in {_msg}
+		set death message to "%{_msg}%"
+	else:
+		if damage was caused by drown: # Death by Drowning
+			set {_msg} to a random element out of {data::deathmessages::drowning::*}
+			replace all "<victim>" with "%victim%" in {_msg}
+			set death message to "%{_msg}%"
+		else if damage was caused by starvation: # Death by Starvation
+			set {_msg} to a random element out of {data::deathmessages::starvation::*}
+			replace all "<victim>" with "%victim%" in {_msg}
+			set death message to "%{_msg}%"
+		else if damage was caused by fall: # Death by Fall Damage
+			set {_msg} to a random element out of {data::deathmessages::fall::*}
+			replace all "<victim>" with "%victim%" in {_msg}
+			set death message to "%{_msg}%"
+		else if damage was caused by lava: # Death by Lava
+			set {_msg} to a random element out of {data::deathmessages::lava::*}
+			replace all "<victim>" with "%victim%" in {_msg}
+			set death message to "%{_msg}%"
+		else if damage was caused by burning: # Death by Burning
+			set {_msg} to a random element out of {data::deathmessages::burning::*}
+			replace all "<victim>" with "%victim%" in {_msg}
+			set death message to "%{_msg}%"
+		else if damage was caused by block explosion: # Death by Explosion (Mainly TNT)
+			set {_msg} to a random element out of {data::deathmessages::explosion::*}
+			replace all "<victim>" with "%victim%" in {_msg}
+			set death message to "%{_msg}%"
+		else if damage was caused by suffocation: # Death by Suffocation
+			set {_msg} to a random element out of {data::deathmessages::suffocation::*}
+			replace all "<victim>" with "%victim%" in {_msg}
+			set death message to "%{_msg}%"
+		else if damage was caused by wither: # Death by Withering
+			set {_msg} to a random element out of {data::deathmessages::wither::*}
+			replace all "<victim>" with "%victim%" in {_msg}
+			set death message to "%{_msg}%"
+		else if damage was caused by poison: # Death by Poison
+			set {_msg} to a random element out of {data::deathmessages::poison::*}
+			replace all "<victim>" with "%victim%" in {_msg}
+			set death message to "%{_msg}%"
+		else if damage was caused by void: # Death by Void
+			set {_msg} to a random element out of {data::deathmessages::void::*}
+			replace all "<victim>" with "%victim%" in {_msg}
+			set death message to "%{_msg}%"
+		else: # Any other death not listed
+			set {_msg} to a random element out of {data::deathmessages::other::*}
+			replace all "<victim>" with "%victim%" in {_msg}
+			set death message to "%{_msg}%"

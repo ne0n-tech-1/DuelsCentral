@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 42.105.154.229
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1705210367474
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1705242401136
+  login: 1705242255430
+money: '0'
+last-account-name: SFL4ME
+lastlocation:
+  world: 5130b709-4fa1-4e54-8c79-2f0d11b795d8
+  world-name: FFA
+  x: 71.07872017112717
+  y: 108.0
+  z: -67.23307681634472
+  yaw: -179.37725830078125
+  pitch: 27.72052001953125
+logoutlocation:
+  world: 3a21ee12-2bf2-43b4-b4fa-f9424b0de21d
+  world-name: world
+  x: -10.065319034508995
+  y: 91.0
+  z: 28.42726292956298
+  yaw: 110.32351684570312
+  pitch: 38.88821792602539

@@ -1,0 +1,223 @@
+spawn-items:
+- ==: SpawnItem
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"Party
+        Fight"}],"text":""}'
+  name: partyfight
+  slot: 2
+  command: /party fight
+  party: true
+- ==: SpawnItem
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: PLAYER_HEAD
+    meta:
+      ==: ItemMeta
+      meta-type: SKULL
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Party
+        Info"}],"text":""}'
+  name: partyinfo
+  slot: 1
+  command: /party info
+  party: true
+- ==: SpawnItem
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: PAPER
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"green","text":"Party
+        Chat"}],"text":""}'
+  name: partychat
+  slot: 6
+  command: /party chat
+  party: true
+- ==: SpawnItem
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: REDSTONE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"Leave
+        Party"}],"text":""}'
+  name: partyleave
+  slot: 7
+  command: /party leave
+  party: true
+- ==: SpawnItem
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: REDSTONE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"Disband
+        Party"}],"text":""}'
+  name: partydisband
+  slot: 7
+  party-owner-only: true
+  command: /party disband
+  party: true
+- ==: SpawnItem
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: CLOCK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"Party
+        Settings"}],"text":""}'
+  name: partysettings
+  slot: 8
+  party-owner-only: true
+  command: /party settings
+  party: true
+- ==: SpawnItem
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: ENDER_EYE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"light_purple","text":"Create
+        Party"}],"text":""}'
+  name: partycreate
+  slot: 1
+  command: /party create
+- ==: SpawnItem
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: CLOCK
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"Settings"}],"text":""}'
+  name: settings
+  slot: 7
+  command: /settings
+- ==: SpawnItem
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: KNOWLEDGE_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: KNOWLEDGE_BOOK
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"blue","text":"Kit
+        Editor"}],"text":""}'
+  name: kiteditor
+  slot: 8
+  command: /kiteditor
+- ==: SpawnItem
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: REDSTONE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"Leave
+        Queue"}],"text":""}'
+  name: leavequeue
+  slot: 8
+  command: /queue leave
+  queue: true
+- ==: SpawnItem
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: REDSTONE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"Leave
+        2v2 Queue"}],"text":""}'
+  name: leave2v2
+  slot: 8
+  party-owner-only: true
+  command: /2v2 leave
+  party: true
+  queue: true
+- ==: SpawnItem
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gold","text":"2v2
+        Ranked Queue"}],"text":""}'
+  name: 2v2ranked
+  slot: 1
+  command: /2v2 ranked
+  party: true
+- ==: SpawnItem
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: IRON_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"2v2
+        Unranked Queue"}],"text":""}'
+  name: 2v2unranked
+  slot: 0
+  command: /2v2
+  party: true
+- ==: SpawnItem
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: REDSTONE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"red","text":"Leave
+        2v2 Queue"}],"text":""}'
+  name: 2v2leave
+  slot: 8
+  party-owner-only: true
+  command: /2v2 leave
+  party: true
+  queue: true
+- ==: SpawnItem
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: DIAMOND_SWORD
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"aqua","text":"Queue"}],"text":""}'
+  name: queue
+  slot: 4
+  command: /queue
+- ==: SpawnItem
+  item:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3578
+    type: NETHER_STAR
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: '{"extra":[{"bold":true,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"yellow","text":"FFA"}],"text":""}'
+  name: ffa
+  slot: 0
+  command: /ffa

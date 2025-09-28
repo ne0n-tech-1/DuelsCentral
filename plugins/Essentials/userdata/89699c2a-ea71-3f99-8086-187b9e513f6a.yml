@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 203.76.222.47
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1726141779835
+  login: 1726140737276
+money: '0'
+last-account-name: Gaming_BdMf
+logoutlocation:
+  world: 3a21ee12-2bf2-43b4-b4fa-f9424b0de21d
+  world-name: world
+  x: -3.4040971899665897
+  y: 100.0
+  z: -1.4006340570796172
+  yaw: 164.0103759765625
+  pitch: 13.999566078186035

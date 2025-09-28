@@ -1,0 +1,125 @@
+menu_title: '&3&lFFA Arenas'
+open_command: ffa
+size: 36
+open_requirement:
+  requirements:
+    permission:
+      type: has permission
+      permission: deluxemenus.menu
+      deny_commands:
+        - '[message] &cYou don''t have permission to do that!'
+items:
+
+  'axepvp':
+    material: DIAMOND_AXE
+    slot: 10
+    display_name: '&6&lAxe Shield'
+    lore:
+      - '&3Left Click To Join The Arena!'
+      - '&3Right Click To Edit The Kit!'
+    left_click_commands:
+      - '[player] axepvp'
+    right_click_commands:
+      - '[player] kiteditor axepvp'
+  'crystal':
+    material: END_CRYSTAL
+    slot: 12
+    display_name: '&6&lCrystalFFA'
+    lore:
+      - '&3Left Click To Join The Arena!'
+      - '&3Right Click To Edit The Kit!'
+    left_click_commands:
+      - '[player] crystalffa'
+    right_click_commands:
+      - '[player] kiteditor crystal' 
+  'nethpot':
+    material: SPLASH_POTION
+    slot: 14
+    display_name: '&6&lNethpot'
+    lore:
+      - '&3Left Click To Join The Arena!'
+      - '&3Right Click To Edit The Kit!'
+    left_click_commands:
+      - '[player] nethpot'
+    right_click_commands:
+      - '[player] kiteditor nethpot'
+  'leave':
+    material: BOOK
+    slot: 16
+    display_name: '&c&lLeaderboard'
+    lore:
+      - '&3Click To Check Leaderboard!'
+    left_click_commands:
+      - '[player] leaderboard '
+
+    right_click_commands:
+      - '[player] leaderboard'
+  'woodpvp':
+    material: WOODEN_SWORD
+    slot: 21
+    display_name: '&6&lWoodPvP'
+    lore:
+      - '&3Left Click To Join The Arena!'
+      - '&3Right Click To Edit The Kit!'
+    left_click_commands:
+      - '[player] woodpvp'
+    right_click_commands:
+      - '[player] kiteditor woodpvp'
+  'elytrafight':
+    material: ELYTRA
+    slot: 23
+    display_name: '&6&lElytraFight'
+    lore:
+      - '&3Left Click To Join The Arena!'
+      - '&3Right Click To Edit The Kit!'
+    left_click_commands:
+      - '[player] elytrafight'
+    right_click_commands:
+      - '[player] kiteditor elytrafight'
+  'smpkit':
+    material: COBWEB
+    slot: 25
+    display_name: '&6&lSMKit'
+    lore:
+      - '&3Left Click To Join The Arena!'
+      - '&3Right Click To Edit The Kit!'
+    left_click_commands:
+      - '[player] smpkit'
+    right_click_commands:
+      - '[player] kiteditor smpkit'
+  'tank':
+    material: DIAMOND_SWORD
+    slot: 19
+    display_name: '&6&lTank'
+    lore:
+      - '&3Left Click To Join The Arena!'
+      - '&3Right Click To Edit The Kit!'
+    left_click_commands:
+      - '[player] tank'
+    right_click_commands:
+      - '[player] kiteditor tank'
+      
+  'cart':
+    material: TNT_MINECART
+    slot: 13
+    display_name: '&6&lCart'
+    lore:
+      - '&3Left Click To Join The Arena!'
+      - '&3Right Click To Edit The Kit!'
+    left_click_commands:
+      - '[player] cart'
+    right_click_commands:
+      - '[player] kiteditor cart'
+  'builduhc':
+    material: LAVA_BUCKET
+    slot: 22
+    display_name: '&6&lBuildUHC'
+    lore:
+      - '&3Left Click To Join The Arena!'
+      - '&3Right Click To Edit The Kit!'
+    left_click_commands:
+      - '[player] builduhc '
+    right_click_commands:
+      - '[player] kiteditor uhc'
+      
+      
