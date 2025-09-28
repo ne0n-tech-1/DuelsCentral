@@ -1,7 +1,6 @@
 # The endpoint name of this server/proxy instance registered on startup with the Connect network.
 # Default is a random string. You can change it to a custom endpoint name.
-endpoint: neon-ffa
-
+endpoint: sky-duels-1
 # This setting is only relevant if you want to allow cracked players to join.
 # This should not be irritated by offline-mode servers behind an online-mode proxy, keep this setting disabled.
 # If left blank, the correct mode will be securely detected automatically.
