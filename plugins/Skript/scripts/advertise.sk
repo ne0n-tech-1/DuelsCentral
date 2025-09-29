@@ -1,9 +1,0 @@
-on chat:
-    message contains "minehut" or ".gg" or "https://" or "mc." or "play." "aternos" or ".fun" or ".me":
-        cancel event
-        
-on chat:
-	message contains "ez" or "fuck" or "bitch" or "ass" or "e z" or "dick" or "nigga" or "bhenchod" or "randi" or "bsdk" or "madarchod" or "kid":
-		if player is not "Itztekrcfan":
-			cancel event
-			send "&b&lBeing Toxic is not allowed on this server!"
