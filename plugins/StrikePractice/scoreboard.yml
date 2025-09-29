@@ -40,6 +40,7 @@ scoreboard:
     - '&fSumo&7: &e<cooldown_sumo>[display=<is_cooldown_sumo>]'
     - '&fLMS&7: &e<cooldown_lms>[display=<is_cooldown_lms>]'
     - '&7&m----------&7&m--------------[display=!<is_enderpearl_cooldown>]'
+    - '&a&lskyzen.live'
   duel:
     - '&7&m------------&7&m------------'
     - '&fRound &e<round> [display=<is_bestof>]'
@@ -57,12 +58,14 @@ scoreboard:
     - '&fEnemy Ping/CPS&7&7: &e<opponent_ping>ms / <opponent_cps> CPS'
     - ''
     - '&7&m----------&7&m--------------[display=!<is_enderpearl_cooldown>]'
+    - '&a&lskyzen.live'    
   party-ffa:
     - '&7&m------------&7&m------------'
     - '&6Party FFA'
     - '&fPlayers Left&7: &e<enemy_team_left>&f/&e<party_members>'
     - '&fFight duration&7: &e<duration>'
     - '&7&m------------------------[display=!<is_enderpearl_cooldown>]'
+    - '&a&lskyzen.live' 
   party-split:
     - '&7&m------------&7&m------------'
     - '&6Party Split'
@@ -70,6 +73,7 @@ scoreboard:
     - '&fEnemy Team Left&7: &e<enemy_team_left>&f/&e<enemy_team_members>'
     - '&fFight duration&7: &e<duration>'
     - '&7&m----------&7&m--------------[display=!<is_enderpearl_cooldown>]'
+    - '&a&lskyzen.live' 
   party-vs-bots:
     - '&7&m------------&7&m------------'
     - '&6Party Vs Bots'
@@ -77,6 +81,7 @@ scoreboard:
     - '&fBots Left&7: &e<enemy_team_left>&f/&e<enemy_team_members>'
     - '&fFight duration&7: &e<duration>'
     - '&7&m----------&7&m--------------[display=!<is_enderpearl_cooldown>]'
+    - '&a&lskyzen.live' 
   party-vs-party:
     - '&7&m------------&7&m------------'
     - '&6Party Vs Party'
@@ -86,6 +91,7 @@ scoreboard:
     - '&fEnemy Team Left&7: &e<enemy_team_left>&f/&e<enemy_team_members>'
     - '&fFight duration&7: &e<duration>'
     - '&7&m----------&7&m--------------[display=!<is_enderpearl_cooldown>]'
+    - '&a&lskyzen.live' 
   brackets:
     - '&7&m------------&7&m------------'
     - '&6Brackets'
@@ -96,6 +102,7 @@ scoreboard:
     - '&fFight Duration&7: &e<duration>'
     - '&fEvent Duration&7: &e<total_duration>'
     - '&7&m----------&7&m--------------[display=!<is_enderpearl_cooldown>]'
+    - '&a&lskyzen.live' 
   sumo:
     - '&7&m------------&7&m------------'
     - '&6Sumo'
@@ -106,17 +113,20 @@ scoreboard:
     - '&fFight Duration&7: &e<duration>[display=<sumo_started>]'
     - '&fEvent Duration&7: &e<total_duration>[display=<sumo_started>]'
     - '&7&m----------&7&m--------------[display=!<is_enderpearl_cooldown>]'
+    - '&a&lskyzen.live' 
   juggernaut:
     - '&7&m------------&7&m------------'
     - '&6Juggernaut&7: &e<juggernaut>'
     - '&fEvent Duration&7: &e<total_duration>'
     - '&7&m----------&7&m--------------[display=!<is_enderpearl_cooldown>]'
+    - '&a&lskyzen.live' 
   lms:
     - '&7&m------------&7&m------------'
     - '&6Last Man Standing'
     - '&fPlayers Left&7: &e<alive>&f/&e<lms_players>'
     - '&fEvent Duration&7: &e<total_duration>'
     - '&7&m----------&7&m--------------[display=!<is_enderpearl_cooldown>]'
+    - '&a&lskyzen.live' 
   koth:
     - '&7&m------------&7&m------------'
     - '&6King of The Hill'
@@ -124,6 +134,7 @@ scoreboard:
     - '&fTimer&7: &e<timer>'
     - '&fEvent Duration&7: &e<total_duration>'
     - '&7&m----------&7&m--------------[display=!<is_enderpearl_cooldown>]'
+    - '&a&lskyzen.live' 
   queue:
     - '&7&m------------&7&m------------'
     - '&6Queue&7: &e<kit>'
@@ -131,6 +142,7 @@ scoreboard:
     - '&fWaited&7: &e<wait_time>'
     - '&fIn queue&7: &e<in_queue>'
     - '&7&m----------&7&m--------------[display=!<is_enderpearl_cooldown>]'
+    - '&a&lskyzen.live' 
   spectator:
     - '&7&m------------&7&m------------'
     - '&6&lSpectating'
@@ -141,6 +153,7 @@ scoreboard:
     - '&fTeam 2 Left&7: &e<enemy_team_left>'
     - '&fFight duration&7: &e<duration>'
     - '&7&m----------&7&m--------------'
+    - '&a&lskyzen.live' 
   # this will be appended in the scoreboard whenever the player is in a party
   party-addition:
     - '&fParty Owner&7: &e<party_owner>'
